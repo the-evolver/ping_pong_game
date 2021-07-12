@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(to top right,rgb(196, 103, 17),rgb(65, 114, 187) 70%);
+
+
+}
+
+#rod1{
+
+height: 30px;
+width: 10rem;
+border-radius:15px 15px;
+background-color: rebeccapurple;
+box-sizing: border-box;
+padding-left: 4rem;
+padding-top: 4px;
+
+position: absolute;
+    
+    left:20%;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: justify;
+
+}
+#rod2{
+
+    height: 30px;
+    width: 10rem;
+    border-radius:15px 15px;
+    background-color:rgba(185, 35, 35, 0.507);
+    box-sizing: border-box;
+    padding-left: 4rem;
+    padding-top: 4px;
+    position: absolute;
+    top:96%;
+    left:20%;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+    }
+
+    #ball{
+
+        height: 1.5rem;
+        width: 1.5rem;
+        border-radius: 50%;
+        background-color: goldenrod;
+        position: absolute;
+        top: 5.9%;
+        left: 25%;
+    }
+    
